@@ -9,9 +9,9 @@ with open("requirements.txt") as f:
 setup(
     name="image_processing",
     version="0.0.1",
-    author="Renan_Scarabelli",
-    author_email="renanscarabelli@gmail.com",
-    description="Pacote criado para entrega de projeto na DIO",
+    author="Renan",
+    author_email="Renan Scarabelli",
+    description="Projeto DIO - Bootcamp Unimed",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/RenanScarabelli/processamento_imagens_dio"
